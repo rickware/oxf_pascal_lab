@@ -6,7 +6,8 @@ Simple app made to get data from web and ofx files.
 <hr />
 
 ##algorithms
-[algorithms] (/algorithms.md)
+
+[algorithms](/algorithms.md)
 
 <hr />
 
