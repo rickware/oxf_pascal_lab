@@ -1,6 +1,43 @@
-# DADOS DO SISTEMA
+## SYSTEM DATA
 
-## SQL TABLES
+Characteristics of the development environment.
+IDE RADStudio [Delphi] 10.3 
+SQL Server  14.0.1000 EXPRESS 
+Microsoft Windows 10  Home
+
+This app uses external component from [leogregianin] (https://github.com/leogregianin/ofx-reader)
+
+<hr/>
+
+API from [HG Brasil] (https://api.hgbrasil.com/finance)
+
+<pre><code>
+{
+  "by": "default",
+  "valid_key": false,
+  "results": {
+    "currencies": {
+      "source": "BRL",
+      "USD": {
+        "name": "Dollar",
+        "buy": 5.207,
+        "sell": 5.2311,
+        "variation": -0.14
+      },
+      "EUR": {
+        "name": "Euro",
+        "buy": 6.0769,
+        "sell": 6.0993,
+        "variation": 0.539
+      },
+...
+</code></pre>
+
+<hr />
+
+
+
+### MS-SQL TABLES
 
 <pre><code>
 USE [SelecaoRicardo]
@@ -34,7 +71,7 @@ CREATE TABLE [dbo].[Movimento](
   ) ON [PRIMARY]
 GO
 
---NAO HA RELACIONAMENTOS.
+--NO RELATIONSHIPS.
 </code>
 </pre>
 
