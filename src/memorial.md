@@ -5,10 +5,10 @@ IDE RADStudio [Delphi] 10.3
 SQL Server  14.0.1000 EXPRESS 
 Microsoft Windows 10  Home
 
+<hr />
 This app uses external component from [leogregianin] (https://github.com/leogregianin/ofx-reader)
 
 <hr/>
-
 API from [HG Brasil] (https://api.hgbrasil.com/finance)
 
 <pre><code>
@@ -34,9 +34,6 @@ API from [HG Brasil] (https://api.hgbrasil.com/finance)
 </code></pre>
 
 <hr />
-
-
-
 ### MS-SQL TABLES
 
 <pre><code>
