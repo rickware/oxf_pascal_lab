@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created by Flowgorithm 2.22.1 (http://flowgorithm.org) -->
+
+<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.1" width="1750" height="1225">
+	<rect x="0" y="0" width="1750" height="1225" fill="#FFFFFF"/>
+	<g>
+		<polyline fill="none" stroke="#000000" stroke-width="6" stroke-dasharray="none" points="475,250 475,311"/>
+		<polygon fill="#000000" stroke="none" points="475,325 488,300 461,300"/>
+		<polyline fill="none" stroke="#000000" stroke-width="6" stroke-dasharray="none" points="475,700 475,1011"/>
+		<polygon fill="#000000" stroke="none" points="475,1025 488,1000 461,1000"/>
+		<g>
+			<path fill="#FFFFFF" stroke="#000000" stroke-width="3" stroke-dasharray="none" d="M 175,100 A 75,75 0 0,0 175,250 L 775,250 A 75,75 0 0,0 775,100 Z"/>
+			<polyline fill="none" stroke="#000000" stroke-width="3" stroke-dasharray="none" points="175,100 175,250"/>
+			<polyline fill="none" stroke="#000000" stroke-width="3" stroke-dasharray="none" points="775,100 775,250"/>
+			<text x="475" y="115" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+				<tspan x="475" dy="50" unicode-bidi="embed">AtualizaForm</tspan>
+				<tspan x="475" dy="50" unicode-bidi="embed">(Real Array ultimaCotacao)</tspan>
+			</text>
+		</g>
+		<g>
+			<path fill="#FFFFFF" stroke="#000000" stroke-width="3" stroke-dasharray="none" d="M 375,1025 A 50,50 0 0,0 375,1125 L 575,1125 A 50,50 0 0,0 575,1025 Z"/>
+			<text x="475" y="1040" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+				<tspan x="475" dy="50" unicode-bidi="embed">End</tspan>
+			</text>
+		</g>
+		<g>
+			<polyline fill="none" stroke="#000000" stroke-width="6" stroke-dasharray="none" points="475,425 475,486"/>
+			<polygon fill="#000000" stroke="none" points="475,500 488,475 461,475"/>
+			<g>
+				<path fill="#FFFFFF" stroke="#000000" stroke-width="3" stroke-dasharray="none" d="M 325,325 L 325,425 L 625,425 L 625,375 L 575,325 Z"/>
+				<polyline fill="none" stroke="#000000" stroke-width="3" stroke-dasharray="none" points="575,325 575,375 625,375"/>
+				<text x="450" y="340" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="450" dy="50" unicode-bidi="embed">Integer x</tspan>
+				</text>
+			</g>
+			<g>
+				<polyline fill="none" stroke="#000000" stroke-width="6" stroke-dasharray="none" points="650,600 775,600 775,825"/>
+				<polyline fill="none" stroke="#000000" stroke-width="6" stroke-dasharray="none" points="775,825 775,950 525,950 525,713"/>
+				<polygon fill="#000000" stroke="none" points="525,700 511,724 538,724"/>
+				<g>
+					<polyline fill="none" stroke="#000000" stroke-width="6" stroke-dasharray="6,12" points="775,825 900,825"/>
+					<g>
+						<path fill="#FFFFFF" stroke="#000000" stroke-width="3" stroke-dasharray="6,6" d="M 900,775 L 900,875 L 1650,875 L 1650,775 Z"/>
+						<text x="1275" y="790" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+							<tspan x="1275" dy="50" unicode-bidi="embed">Labelx.Caption := ultimaCotacao[x]</tspan>
+						</text>
+					</g>
+				</g>
+				<g>
+					<path fill="#FFFFFF" stroke="#000000" stroke-width="3" stroke-dasharray="none" d="M 475,500 L 300,600 L 475,700 L 650,600 Z"/>
+					<text x="475" y="565" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+						<tspan x="475" dy="50" unicode-bidi="embed">x = 0 to 8</tspan>
+					</text>
+				</g>
+				<text x="725" y="515" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="725" dy="50" unicode-bidi="embed">Next</tspan>
+				</text>
+				<text x="387" y="715" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="387" dy="50" unicode-bidi="embed">Done</tspan>
+				</text>
+			</g>
+		</g>
+	</g>
+</svg>

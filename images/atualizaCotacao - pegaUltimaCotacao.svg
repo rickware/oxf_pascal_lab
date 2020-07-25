@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg6480"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="atualizaCotacao - pegaUltimaCotacao.svg">
+  <defs
+     id="defs6474" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.57811504"
+     inkscape:cx="474.24049"
+     inkscape:cy="538.37329"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata6477">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       transform="matrix(0.11989167,0,0,0.11989167,10.387675,39.904735)"
+       id="g6389">
+      <polyline
+         points="675,250 675,311"
+         id="polyline6257"
+         style="fill:none;stroke:#000000;stroke-width:6;stroke-dasharray:none" />
+      <polygon
+         points="675,325 688,300 661,300 "
+         id="polygon6259"
+         style="fill:#000000;stroke:none" />
+      <polyline
+         points="675,1600 675,1661"
+         id="polyline6261"
+         style="fill:none;stroke:#000000;stroke-width:6;stroke-dasharray:none" />
+      <polygon
+         points="675,1675 688,1650 661,1650 "
+         id="polygon6263"
+         style="fill:#000000;stroke:none" />
+      <g
+         id="g6277">
+        <path
+           d="m 325,100 a 75,75 0 0 0 0,150 h 700 a 75,75 0 0 0 0,-150 z"
+           id="path6265"
+           inkscape:connector-curvature="0"
+           style="fill:#ffffff;stroke:#000000;stroke-width:3;stroke-dasharray:none" />
+        <polyline
+           points="325,100 325,250"
+           id="polyline6267"
+           style="fill:none;stroke:#000000;stroke-width:3;stroke-dasharray:none" />
+        <polyline
+           points="1025,100 1025,250"
+           id="polyline6269"
+           style="fill:none;stroke:#000000;stroke-width:3;stroke-dasharray:none" />
+        <text
+           x="675"
+           y="115"
+           font-size="32pt"
+           direction="ltr"
+           id="text6275"
+           style="font-size:42.66666794px;font-family:Arial;direction:ltr;text-anchor:middle;fill:#000000">
+          <tspan
+             x="675"
+             dy="50"
+             unicode-bidi="embed"
+             id="tspan6271">pegaUltimaCotacao</tspan>
+          <tspan
+             x="675"
+             dy="50"
+             unicode-bidi="embed"
+             id="tspan6273">(String moeda, String operacao)</tspan>
+        </text>
+      </g>
+      <g
+         id="g6285">
+        <path
+           d="m 450,1675 a 50,50 0 0 0 0,100 h 450 a 50,50 0 0 0 0,-100 z"
+           id="path6279"
+           inkscape:connector-curvature="0"
+           style="fill:#ffffff;stroke:#000000;stroke-width:3;stroke-dasharray:none" />
+        <text
+           x="675"
+           y="1690"
+           font-size="32pt"
+           direction="ltr"
+           id="text6283"
+           style="font-size:42.66666794px;font-family:Arial;direction:ltr;text-anchor:middle;fill:#000000">
+          <tspan
+             x="675"
+             dy="50"
+             unicode-bidi="embed"
+             id="tspan6281">Return Real resultado</tspan>
+        </text>
+      </g>
+      <g
+         id="g6387">
+        <polyline
+           points="675,475 675,536"
+           id="polyline6287"
+           style="fill:none;stroke:#000000;stroke-width:6;stroke-dasharray:none" />
+        <polygon
+           points="661,525 675,550 688,525 "
+           id="polygon6289"
+           style="fill:#000000;stroke:none" />
+        <polyline
+           points="675,650 675,850"
+           id="polyline6291"
+           style="fill:none;stroke:#000000;stroke-width:6;stroke-dasharray:none" />
+        <polyline
+           points="675,850 675,1036"
+           id="polyline6293"
+           style="fill:none;stroke:#000000;stroke-width:6;stroke-dasharray:none" />
+        <polygon
+           points="661,1025 675,1050 688,1025 "
+           id="polygon6295"
+           style="fill:#000000;stroke:none" />
+        <g
+           id="g6307">
+          <path
+             d="M 425,325 V 475 H 925 V 400 L 850,325 Z"
+             id="path6297"
+             inkscape:connector-curvature="0"
+             style="fill:#ffffff;stroke:#000000;stroke-width:3;stroke-dasharray:none" />
+          <polyline
+             points="850,325 850,400 925,400"
+             id="polyline6299"
+             style="fill:none;stroke:#000000;stroke-width:3;stroke-dasharray:none" />
+          <text
+             x="637"
+             y="340"
+             font-size="32pt"
+             direction="ltr"
+             id="text6305"
+             style="font-size:42.66666794px;font-family:Arial;direction:ltr;text-anchor:middle;fill:#000000">
+            <tspan
+               x="637"
+               dy="50"
+               unicode-bidi="embed"
+               id="tspan6301">Real valorApurado,</tspan>
+            <tspan
+               x="637"
+               dy="50"
+               unicode-bidi="embed"
+               id="tspan6303">resultado</tspan>
+          </text>
+        </g>
+        <g
+           id="g6315">
+          <path
+             d="M 475,550 V 650 H 875 V 550 Z"
+             id="path6309"
+             inkscape:connector-curvature="0"
+             style="fill:#ffffff;stroke:#000000;stroke-width:3;stroke-dasharray:none" />
+          <text
+             x="675"
+             y="565"
+             font-size="32pt"
+             direction="ltr"
+             id="text6313"
+             style="font-size:42.66666794px;font-family:Arial;direction:ltr;text-anchor:middle;fill:#000000">
+            <tspan
+               x="675"
+               dy="50"
+               unicode-bidi="embed"
+               id="tspan6311">valorApurado = 0</tspan>
+          </text>
+        </g>
+        <g
+           id="g6333">
+          <polyline
+             points="675,850 800,850"
+             id="polyline6317"
+             style="fill:none;stroke:#000000;stroke-width:6;stroke-dasharray:6, 12" />
+          <g
+             id="g6331">
+            <path
+               d="m 800,725 v 250 h 800 V 725 Z"
+               id="path6319"
+               inkscape:connector-curvature="0"
+               style="fill:#ffffff;stroke:#000000;stroke-width:3;stroke-dasharray:6, 6" />
+            <text
+               x="1200"
+               y="740"
+               font-size="32pt"
+               direction="ltr"
+               id="text6329"
+               style="font-size:42.66666794px;font-family:Arial;direction:ltr;text-anchor:middle;fill:#000000">
+              <tspan
+                 x="1200"
+                 dy="50"
+                 unicode-bidi="embed"
+                 id="tspan6321">valorApurado := &quot;sql-&gt;SELECT top 1</tspan>
+              <tspan
+                 x="1200"
+                 dy="50"
+                 unicode-bidi="embed"
+                 id="tspan6323">valor FROM DBO.Cotacao where</tspan>
+              <tspan
+                 x="1200"
+                 dy="50"
+                 unicode-bidi="embed"
+                 id="tspan6325">moeda = &quot; + moeda + &quot; and operacao</tspan>
+              <tspan
+                 x="1200"
+                 dy="50"
+                 unicode-bidi="embed"
+                 id="tspan6327">= &quot; + operacao + &quot; order by id desc&quot;</tspan>
+            </text>
+          </g>
+        </g>
+        <g
+           id="g6385">
+          <polyline
+             points="900,1175 1050,1175 1050,1361"
+             id="polyline6335"
+             style="fill:none;stroke:#000000;stroke-width:6;stroke-dasharray:none" />
+          <polygon
+             points="1063,1350 1036,1350 1050,1375 "
+             id="polygon6337"
+             style="fill:#000000;stroke:none" />
+          <polyline
+             points="1050,1475 1050,1575 713,1575"
+             id="polyline6339"
+             style="fill:none;stroke:#000000;stroke-width:6;stroke-dasharray:none" />
+          <polygon
+             points="724,1588 724,1561 700,1575 "
+             id="polygon6341"
+             style="fill:#000000;stroke:none" />
+          <polyline
+             points="450,1175 275,1175 275,1361"
+             id="polyline6343"
+             style="fill:none;stroke:#000000;stroke-width:6;stroke-dasharray:none" />
+          <polygon
+             points="288,1350 261,1350 275,1375 "
+             id="polygon6345"
+             style="fill:#000000;stroke:none" />
+          <polyline
+             points="275,1475 275,1575 636,1575"
+             id="polyline6347"
+             style="fill:none;stroke:#000000;stroke-width:6;stroke-dasharray:none" />
+          <polygon
+             points="625,1561 625,1588 650,1575 "
+             id="polygon6349"
+             style="fill:#000000;stroke:none" />
+          <g
+             id="g6357">
+            <path
+               d="m 675,1050 -250,125 250,125 250,-125 z"
+               id="path6351"
+               inkscape:connector-curvature="0"
+               style="fill:#ffffff;stroke:#000000;stroke-width:3;stroke-dasharray:none" />
+            <text
+               x="675"
+               y="1140"
+               font-size="32pt"
+               direction="ltr"
+               id="text6355"
+               style="font-size:42.66666794px;font-family:Arial;direction:ltr;text-anchor:middle;fill:#000000">
+              <tspan
+                 x="675"
+                 dy="50"
+                 unicode-bidi="embed"
+                 id="tspan6353">valorApurado &gt; 0</tspan>
+            </text>
+          </g>
+          <g
+             id="g6365">
+            <path
+               d="m 750,1375 v 100 h 600 v -100 z"
+               id="path6359"
+               inkscape:connector-curvature="0"
+               style="fill:#ffffff;stroke:#000000;stroke-width:3;stroke-dasharray:none" />
+            <text
+               x="1050"
+               y="1390"
+               font-size="32pt"
+               direction="ltr"
+               id="text6363"
+               style="font-size:42.66666794px;font-family:Arial;direction:ltr;text-anchor:middle;fill:#000000">
+              <tspan
+                 x="1050"
+                 dy="50"
+                 unicode-bidi="embed"
+                 id="tspan6361">Resultado = valorApurado</tspan>
+            </text>
+          </g>
+          <g
+             id="g6373">
+            <path
+               d="m 100,1375 v 100 h 350 v -100 z"
+               id="path6367"
+               inkscape:connector-curvature="0"
+               style="fill:#ffffff;stroke:#000000;stroke-width:3;stroke-dasharray:none" />
+            <text
+               x="275"
+               y="1390"
+               font-size="32pt"
+               direction="ltr"
+               id="text6371"
+               style="font-size:42.66666794px;font-family:Arial;direction:ltr;text-anchor:middle;fill:#000000">
+              <tspan
+                 x="275"
+                 dy="50"
+                 unicode-bidi="embed"
+                 id="tspan6369">Resultado = 0</tspan>
+            </text>
+          </g>
+          <circle
+             cx="675"
+             cy="1575"
+             id="ellipse6375"
+             r="25"
+             style="fill:#ffffff;stroke:#000000;stroke-width:3" />
+          <text
+             x="1000"
+             y="1090"
+             font-size="32pt"
+             direction="ltr"
+             id="text6379"
+             style="font-size:42.66666794px;font-family:Arial;direction:ltr;text-anchor:middle;fill:#000000">
+            <tspan
+               x="1000"
+               dy="50"
+               unicode-bidi="embed"
+               id="tspan6377">True</tspan>
+          </text>
+          <text
+             x="337"
+             y="1090"
+             font-size="32pt"
+             direction="ltr"
+             id="text6383"
+             style="font-size:42.66666794px;font-family:Arial;direction:ltr;text-anchor:middle;fill:#000000">
+            <tspan
+               x="337"
+               dy="50"
+               unicode-bidi="embed"
+               id="tspan6381">False</tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

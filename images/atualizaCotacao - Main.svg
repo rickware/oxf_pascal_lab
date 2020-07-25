@@ -1,0 +1,1083 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5474"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="atualizaCotacao - Main.svg">
+  <defs
+     id="defs5468" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.1562301"
+     inkscape:cx="257.99796"
+     inkscape:cy="250.37874"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5471">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:6;stroke-dasharray:none"
+       id="polyline4451"
+       points="600,200 600,261"
+       transform="matrix(0.05571348,0,0,0.05571348,5.6713347,8.3513141)" />
+    <polygon
+       style="fill:#000000;stroke:none"
+       id="polygon4453"
+       points="586,250 600,275 613,250 "
+       transform="matrix(0.05571348,0,0,0.05571348,5.6713347,8.3513141)" />
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:6;stroke-dasharray:none"
+       id="polyline4455"
+       points="600,5375 600,5436"
+       transform="matrix(0.05571348,0,0,0.05571348,-0.361754,-19.712356)" />
+    <polygon
+       style="fill:#000000;stroke:none"
+       id="polygon4457"
+       points="586,5425 600,5450 613,5425 "
+       transform="matrix(0.05571348,0,0,0.05571348,-0.361754,-19.712356)" />
+    <g
+       id="g4469"
+       transform="matrix(0.05571348,0,0,0.05571348,5.6713347,8.3513141)">
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:3;stroke-dasharray:none"
+         inkscape:connector-curvature="0"
+         id="path4459"
+         d="m 500,100 a 50,50 0 0 0 0,100 h 200 a 50,50 0 0 0 0,-100 z" />
+      <polyline
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-dasharray:none"
+         id="polyline4461"
+         points="500,100 500,200" />
+      <polyline
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-dasharray:none"
+         id="polyline4463"
+         points="700,100 700,200" />
+      <text
+         style="font-size:42.66666794px;font-family:Arial;direction:ltr;text-anchor:middle;fill:#000000"
+         id="text4467"
+         direction="ltr"
+         font-size="32pt"
+         y="115"
+         x="600">
+        <tspan
+           id="tspan4465"
+           unicode-bidi="embed"
+           dy="50"
+           x="600">Main</tspan>
+      </text>
+    </g>
+    <g
+       id="g4477"
+       transform="matrix(0.05571348,0,0,0.05571348,-0.361754,-19.712356)">
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:3;stroke-dasharray:none"
+         inkscape:connector-curvature="0"
+         id="path4471"
+         d="m 500,5450 a 50,50 0 0 0 0,100 h 200 a 50,50 0 0 0 0,-100 z" />
+      <text
+         style="font-size:42.66666794px;font-family:Arial;direction:ltr;text-anchor:middle;fill:#000000"
+         id="text4475"
+         direction="ltr"
+         font-size="32pt"
+         y="5465"
+         x="600">
+        <tspan
+           id="tspan4473"
+           unicode-bidi="embed"
+           dy="50"
+           x="600">End</tspan>
+      </text>
+    </g>
+    <polyline
+       points="600,375 600,436"
+       id="polyline4479"
+       style="fill:none;stroke:#000000;stroke-width:6;stroke-dasharray:none"
+       transform="matrix(0.05571348,0,0,0.05571348,5.6713347,8.3513141)" />
+    <polygon
+       points="600,450 613,425 586,425 "
+       id="polygon4481"
+       style="fill:#000000;stroke:none"
+       transform="matrix(0.05571348,0,0,0.05571348,5.6713347,8.3513141)" />
+    <polyline
+       points="600,650 600,711"
+       id="polyline4483"
+       style="fill:none;stroke:#000000;stroke-width:6;stroke-dasharray:none"
+       transform="matrix(0.05571348,0,0,0.05571348,5.6713347,8.3513141)" />
+    <polygon
+       points="600,725 613,700 586,700 "
+       id="polygon4485"
+       style="fill:#000000;stroke:none"
+       transform="matrix(0.05571348,0,0,0.05571348,5.6713347,7.5713254)" />
+    <polyline
+       points="600,875 600,1000"
+       id="polyline4487"
+       style="fill:none;stroke:#000000;stroke-width:6;stroke-dasharray:none"
+       transform="matrix(0.05571348,0,0,0.05571348,58.302872,-21.074623)" />
+    <polyline
+       points="600,1000 600,1111"
+       id="polyline4489"
+       style="fill:none;stroke:#000000;stroke-width:6;stroke-dasharray:none"
+       transform="matrix(0.05571348,0,0,0.05571348,58.302872,-21.074623)" />
+    <polygon
+       points="586,1100 600,1125 613,1100 "
+       id="polygon4491"
+       style="fill:#000000;stroke:none"
+       transform="matrix(0.05571348,0,0,0.05571348,58.302872,-21.854612)" />
+    <polyline
+       points="600,1325 600,1386"
+       id="polyline4493"
+       style="fill:none;stroke:#000000;stroke-width:6;stroke-dasharray:none"
+       transform="matrix(0.05571348,0,0,0.05571348,58.302872,-21.854612)" />
+    <polygon
+       points="600,1400 613,1375 586,1375 "
+       id="polygon4495"
+       style="fill:#000000;stroke:none"
+       transform="matrix(0.05571348,0,0,0.05571348,58.302872,-21.854612)" />
+    <polyline
+       points="600,1550 600,1611"
+       id="polyline4497"
+       style="fill:none;stroke:#000000;stroke-width:6;stroke-dasharray:none"
+       transform="matrix(0.05571348,0,0,0.05571348,58.302872,-21.854612)" />
+    <polygon
+       points="613,1600 586,1600 600,1625 "
+       id="polygon4499"
+       style="fill:#000000;stroke:none"
+       transform="matrix(0.05571348,0,0,0.05571348,58.302872,-21.854612)" />
+    <polyline
+       points="600,1725 600,1786"
+       id="polyline4501"
+       style="fill:none;stroke:#000000;stroke-width:6;stroke-dasharray:none"
+       transform="matrix(0.05571348,0,0,0.05571348,58.302872,-21.854612)" />
+    <polygon
+       points="586,1775 600,1800 613,1775 "
+       id="polygon4503"
+       style="fill:#000000;stroke:none"
+       transform="matrix(0.05571348,0,0,0.05571348,58.302872,-21.854612)" />
+    <polyline
+       points="600,1900 600,1961"
+       id="polyline4505"
+       style="fill:none;stroke:#000000;stroke-width:6;stroke-dasharray:none"
+       transform="matrix(0.05571348,0,0,0.05571348,58.302872,-21.854612)" />
+    <polygon
+       points="600,1975 613,1950 586,1950 "
+       id="polygon4507"
+       style="fill:#000000;stroke:none"
+       transform="matrix(0.05571348,0,0,0.05571348,58.302872,-21.854612)" />
+    <polyline
+       points="600,5200 600,5261"
+       id="polyline4509"
+       style="fill:none;stroke:#000000;stroke-width:6;stroke-dasharray:none"
+       transform="matrix(0.05571348,0,0,0.05571348,-0.361754,-19.712356)" />
+    <polygon
+       points="586,5250 600,5275 613,5250 "
+       id="polygon4511"
+       style="fill:#000000;stroke:none"
+       transform="matrix(0.05571348,0,0,0.05571348,-0.361754,-19.712356)" />
+    <g
+       id="g4519"
+       transform="matrix(0.05571348,0,0,0.05571348,5.6713347,8.3513141)">
+      <path
+         d="m 450,275 v 100 h 250 l 50,-50 -50,-50 z"
+         id="path4513"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;stroke:#000000;stroke-width:3;stroke-dasharray:none" />
+      <text
+         x="575"
+         y="290"
+         font-size="32pt"
+         direction="ltr"
+         id="text4517"
+         style="font-size:42.66666794px;font-family:Arial;direction:ltr;text-anchor:middle;fill:#000000">
+        <tspan
+           x="575"
+           dy="50"
+           unicode-bidi="embed"
+           id="tspan4515">&quot;Main&quot;</tspan>
+      </text>
+    </g>
+    <g
+       id="g4533"
+       transform="matrix(0.05571348,0,0,0.05571348,5.6713347,8.3513141)">
+      <path
+         d="M 250,450 V 650 H 950 V 550 L 850,450 Z"
+         id="path4521"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;stroke:#000000;stroke-width:3;stroke-dasharray:none" />
+      <polyline
+         points="850,450 850,550 950,550"
+         id="polyline4523"
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-dasharray:none" />
+      <text
+         x="550"
+         y="465"
+         font-size="32pt"
+         direction="ltr"
+         id="text4531"
+         style="font-size:42.66666794px;font-family:Arial;direction:ltr;text-anchor:middle;fill:#000000">
+        <tspan
+           x="550"
+           dy="50"
+           unicode-bidi="embed"
+           id="tspan4525">Integer</tspan>
+        <tspan
+           x="550"
+           dy="50"
+           unicode-bidi="embed"
+           id="tspan4527">botaoPegaCotataoClick, i,</tspan>
+        <tspan
+           x="550"
+           dy="50"
+           unicode-bidi="embed"
+           id="tspan4529">flag</tspan>
+      </text>
+    </g>
+    <g
+       id="g4545"
+       transform="matrix(0.05571348,0,0,0.05571348,5.6713347,7.5713254)">
+      <path
+         d="M 250,725 V 875 H 950 V 800 L 875,725 Z"
+         id="path4535"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;stroke:#000000;stroke-width:3;stroke-dasharray:none" />
+      <polyline
+         points="875,725 875,800 950,800"
+         id="polyline4537"
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-dasharray:none" />
+      <text
+         x="562"
+         y="740"
+         font-size="32pt"
+         direction="ltr"
+         id="text4543"
+         style="font-size:42.66666794px;font-family:Arial;direction:ltr;text-anchor:middle;fill:#000000">
+        <tspan
+           x="562"
+           dy="50"
+           unicode-bidi="embed"
+           id="tspan4539">Real Array cotacaoNova[8],</tspan>
+        <tspan
+           x="562"
+           dy="50"
+           unicode-bidi="embed"
+           id="tspan4541">ultimaCotacao[8]</tspan>
+      </text>
+    </g>
+    <g
+       id="g4557"
+       transform="matrix(0.05571348,0,0,0.05571348,58.302872,-21.074623)">
+      <polyline
+         points="600,1000 725,1000"
+         id="polyline4547"
+         style="fill:none;stroke:#000000;stroke-width:6;stroke-dasharray:6, 12" />
+      <g
+         id="g4555">
+        <path
+           d="m 725,950 v 100 h 600 V 950 Z"
+           id="path4549"
+           inkscape:connector-curvature="0"
+           style="fill:#ffffff;stroke:#000000;stroke-width:3;stroke-dasharray:6, 6" />
+        <text
+           x="1025"
+           y="965"
+           font-size="32pt"
+           direction="ltr"
+           id="text4553"
+           style="font-size:42.66666794px;font-family:Arial;direction:ltr;text-anchor:middle;fill:#000000">
+          <tspan
+             x="1025"
+             dy="50"
+             unicode-bidi="embed"
+             id="tspan4551">SQL busca dados da base</tspan>
+        </text>
+      </g>
+    </g>
+    <g
+       id="g4569"
+       transform="matrix(0.05571348,0,0,0.05571348,58.302872,-21.854612)">
+      <path
+         d="m 375,1125 v 200 h 450 v -200 z"
+         id="path4559"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;stroke:#000000;stroke-width:3;stroke-dasharray:none" />
+      <text
+         x="600"
+         y="1140"
+         font-size="32pt"
+         direction="ltr"
+         id="text4567"
+         style="font-size:42.66666794px;font-family:Arial;direction:ltr;text-anchor:middle;fill:#000000">
+        <tspan
+           x="600"
+           dy="50"
+           unicode-bidi="embed"
+           id="tspan4561">ultimaCotacao[0] =</tspan>
+        <tspan
+           x="600"
+           dy="50"
+           unicode-bidi="embed"
+           id="tspan4563">pegaUltimaCotacao</tspan>
+        <tspan
+           x="600"
+           dy="50"
+           unicode-bidi="embed"
+           id="tspan4565">(&quot;Dolar&quot;,&quot;Compra&quot;)</tspan>
+      </text>
+    </g>
+    <g
+       id="g4583"
+       transform="matrix(0.05571348,0,0,0.05571348,58.302872,-21.854612)">
+      <path
+         d="m 375,1400 v 150 h 450 v -150 z"
+         id="path4571"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;stroke:#000000;stroke-width:3;stroke-dasharray:none" />
+      <polyline
+         points="400,1400 400,1550"
+         id="polyline4573"
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-dasharray:none" />
+      <polyline
+         points="800,1400 800,1550"
+         id="polyline4575"
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-dasharray:none" />
+      <text
+         x="600"
+         y="1415"
+         font-size="32pt"
+         direction="ltr"
+         id="text4581"
+         style="font-size:42.66666794px;font-family:Arial;direction:ltr;text-anchor:middle;fill:#000000">
+        <tspan
+           x="600"
+           dy="50"
+           unicode-bidi="embed"
+           id="tspan4577">AtualizaForm</tspan>
+        <tspan
+           x="600"
+           dy="50"
+           unicode-bidi="embed"
+           id="tspan4579">(ultimaCotacao)</tspan>
+      </text>
+    </g>
+    <g
+       id="g4591"
+       transform="matrix(0.05571348,0,0,0.05571348,58.302872,-21.854612)">
+      <path
+         d="m 450,1625 v 100 h 300 v -100 z"
+         id="path4585"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;stroke:#000000;stroke-width:3;stroke-dasharray:none" />
+      <text
+         x="600"
+         y="1640"
+         font-size="32pt"
+         direction="ltr"
+         id="text4589"
+         style="font-size:42.66666794px;font-family:Arial;direction:ltr;text-anchor:middle;fill:#000000">
+        <tspan
+           x="600"
+           dy="50"
+           unicode-bidi="embed"
+           id="tspan4587">flag = 0</tspan>
+      </text>
+    </g>
+    <g
+       id="g4599"
+       transform="matrix(0.05571348,0,0,0.05571348,58.302872,-21.854612)">
+      <path
+         d="m 300,1800 v 100 h 600 l -50,-50 50,-50 z"
+         id="path4593"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;stroke:#000000;stroke-width:3;stroke-dasharray:none" />
+      <text
+         x="575"
+         y="1815"
+         font-size="32pt"
+         direction="ltr"
+         id="text4597"
+         style="font-size:42.66666794px;font-family:Arial;direction:ltr;text-anchor:middle;fill:#000000">
+        <tspan
+           x="575"
+           dy="50"
+           unicode-bidi="embed"
+           id="tspan4595">botaoPegaCotataoClick</tspan>
+      </text>
+    </g>
+    <g
+       id="g4845"
+       transform="matrix(0.05571348,0,0,0.05571348,58.302872,-21.854612)">
+      <polyline
+         points="925,2150 1075,2150 1075,2386"
+         id="polyline4601"
+         style="fill:none;stroke:#000000;stroke-width:6;stroke-dasharray:none" />
+      <polygon
+         points="1088,2375 1061,2375 1075,2400 "
+         id="polygon4603"
+         style="fill:#000000;stroke:none" />
+      <polyline
+         points="1075,5075 1075,5175 638,5175"
+         id="polyline4605"
+         style="fill:none;stroke:#000000;stroke-width:6;stroke-dasharray:none" />
+      <polygon
+         points="649,5188 649,5161 625,5175 "
+         id="polygon4607"
+         style="fill:#000000;stroke:none" />
+      <polyline
+         points="275,2150 100,2150 100,5175 561,5175"
+         id="polyline4609"
+         style="fill:none;stroke:#000000;stroke-width:6;stroke-dasharray:none" />
+      <polygon
+         points="550,5161 550,5188 575,5175 "
+         id="polygon4611"
+         style="fill:#000000;stroke:none" />
+      <g
+         id="g4619">
+        <path
+           d="m 600,1975 -350,175 350,175 350,-175 z"
+           id="path4613"
+           inkscape:connector-curvature="0"
+           style="fill:#ffffff;stroke:#000000;stroke-width:3;stroke-dasharray:none" />
+        <text
+           x="600"
+           y="2115"
+           font-size="32pt"
+           direction="ltr"
+           id="text4617"
+           style="font-size:42.66666794px;font-family:Arial;direction:ltr;text-anchor:middle;fill:#000000">
+          <tspan
+             x="600"
+             dy="50"
+             unicode-bidi="embed"
+             id="tspan4615">botaoPegaCotataoClick = 1</tspan>
+        </text>
+      </g>
+      <g
+         id="g4831">
+        <polyline
+           points="1075,2500 1075,2561"
+           id="polyline4621"
+           style="fill:none;stroke:#000000;stroke-width:6;stroke-dasharray:none" />
+        <polygon
+           points="1075,2575 1088,2550 1061,2550 "
+           id="polygon4623"
+           style="fill:#000000;stroke:none" />
+        <polyline
+           points="1075,2675 1075,2736"
+           id="polyline4625"
+           style="fill:none;stroke:#000000;stroke-width:6;stroke-dasharray:none" />
+        <polygon
+           points="1075,2750 1088,2725 1061,2725 "
+           id="polygon4627"
+           style="fill:#000000;stroke:none" />
+        <polyline
+           points="1075,2950 1075,4386"
+           id="polyline4629"
+           style="fill:none;stroke:#000000;stroke-width:6;stroke-dasharray:none" />
+        <polygon
+           points="1075,4400 1088,4375 1061,4375 "
+           id="polygon4631"
+           style="fill:#000000;stroke:none" />
+        <g
+           id="g4639">
+          <path
+             d="m 825,2400 v 100 h 450 l 50,-50 -50,-50 z"
+             id="path4633"
+             inkscape:connector-curvature="0"
+             style="fill:#ffffff;stroke:#000000;stroke-width:3;stroke-dasharray:none" />
+          <text
+             x="1050"
+             y="2415"
+             font-size="32pt"
+             direction="ltr"
+             id="text4637"
+             style="font-size:42.66666794px;font-family:Arial;direction:ltr;text-anchor:middle;fill:#000000">
+            <tspan
+               x="1050"
+               dy="50"
+               unicode-bidi="embed"
+               id="tspan4635">&quot;PegaCotacaoClick&quot;</tspan>
+          </text>
+        </g>
+        <g
+           id="g4651">
+          <path
+             d="m 825,2575 v 100 h 500 v -100 z"
+             id="path4641"
+             inkscape:connector-curvature="0"
+             style="fill:#ffffff;stroke:#000000;stroke-width:3;stroke-dasharray:none" />
+          <polyline
+             points="850,2575 850,2675"
+             id="polyline4643"
+             style="fill:none;stroke:#000000;stroke-width:3;stroke-dasharray:none" />
+          <polyline
+             points="1300,2575 1300,2675"
+             id="polyline4645"
+             style="fill:none;stroke:#000000;stroke-width:3;stroke-dasharray:none" />
+          <text
+             x="1075"
+             y="2590"
+             font-size="32pt"
+             direction="ltr"
+             id="text4649"
+             style="font-size:42.66666794px;font-family:Arial;direction:ltr;text-anchor:middle;fill:#000000">
+            <tspan
+               x="1075"
+               dy="50"
+               unicode-bidi="embed"
+               id="tspan4647">pegaCotacaoNova</tspan>
+          </text>
+        </g>
+        <g
+           id="g4767">
+          <polyline
+             points="1250,2850 1675,2850 1675,3011"
+             id="polyline4653"
+             style="fill:none;stroke:#000000;stroke-width:6;stroke-dasharray:none" />
+          <polygon
+             points="1661,3000 1675,3025 1688,3000 "
+             id="polygon4655"
+             style="fill:#000000;stroke:none" />
+          <polyline
+             points="1675,4250 1675,4325 1125,4325 1125,2963"
+             id="polyline4657"
+             style="fill:none;stroke:#000000;stroke-width:6;stroke-dasharray:none" />
+          <polygon
+             points="1138,2974 1125,2950 1111,2974 "
+             id="polygon4659"
+             style="fill:#000000;stroke:none" />
+          <g
+             id="g4749">
+            <polyline
+               points="1675,3125 1675,3275"
+               id="polyline4661"
+               style="fill:none;stroke:#000000;stroke-width:6;stroke-dasharray:none" />
+            <polyline
+               points="1675,3275 1675,3411"
+               id="polyline4663"
+               style="fill:none;stroke:#000000;stroke-width:6;stroke-dasharray:none" />
+            <polygon
+               points="1688,3400 1661,3400 1675,3425 "
+               id="polygon4665"
+               style="fill:#000000;stroke:none" />
+            <g
+               id="g4673">
+              <path
+                 d="m 1450,3025 v 100 h 450 v -100 z"
+                 id="path4667"
+                 inkscape:connector-curvature="0"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:3;stroke-dasharray:none" />
+              <text
+                 x="1675"
+                 y="3040"
+                 font-size="32pt"
+                 direction="ltr"
+                 id="text4671"
+                 style="font-size:42.66666794px;font-family:Arial;direction:ltr;text-anchor:middle;fill:#000000">
+                <tspan
+                   x="1675"
+                   dy="50"
+                   unicode-bidi="embed"
+                   id="tspan4669">ultimaCotacao[i] = 1</tspan>
+              </text>
+            </g>
+            <g
+               id="g4687">
+              <polyline
+                 points="1675,3275 1800,3275"
+                 id="polyline4675"
+                 style="fill:none;stroke:#000000;stroke-width:6;stroke-dasharray:6, 12" />
+              <g
+                 id="g4685">
+                <path
+                   d="m 1800,3200 v 150 h 700 v -150 z"
+                   id="path4677"
+                   inkscape:connector-curvature="0"
+                   style="fill:#ffffff;stroke:#000000;stroke-width:3;stroke-dasharray:6, 6" />
+                <text
+                   x="2150"
+                   y="3215"
+                   font-size="32pt"
+                   direction="ltr"
+                   id="text4683"
+                   style="font-size:42.66666794px;font-family:Arial;direction:ltr;text-anchor:middle;fill:#000000">
+                  <tspan
+                     x="2150"
+                     dy="50"
+                     unicode-bidi="embed"
+                     id="tspan4679">compara cotacoes velhas com as</tspan>
+                  <tspan
+                     x="2150"
+                     dy="50"
+                     unicode-bidi="embed"
+                     id="tspan4681">novas</tspan>
+                </text>
+              </g>
+            </g>
+            <g
+               id="g4747">
+              <polyline
+                 points="1950,3575 2100,3575 2100,3786"
+                 id="polyline4689"
+                 style="fill:none;stroke:#000000;stroke-width:6;stroke-dasharray:none" />
+              <polygon
+                 points="2100,3800 2113,3775 2086,3775 "
+                 id="polygon4691"
+                 style="fill:#000000;stroke:none" />
+              <polyline
+                 points="2100,4125 2100,4225 1713,4225"
+                 id="polyline4693"
+                 style="fill:none;stroke:#000000;stroke-width:6;stroke-dasharray:none" />
+              <polygon
+                 points="1700,4225 1724,4238 1724,4211 "
+                 id="polygon4695"
+                 style="fill:#000000;stroke:none" />
+              <polyline
+                 points="1400,3575 1225,3575 1225,4225 1636,4225"
+                 id="polyline4697"
+                 style="fill:none;stroke:#000000;stroke-width:6;stroke-dasharray:none" />
+              <polygon
+                 points="1650,4225 1625,4211 1625,4238 "
+                 id="polygon4699"
+                 style="fill:#000000;stroke:none" />
+              <g
+                 id="g4709">
+                <path
+                   d="m 1675,3425 -300,150 300,150 300,-150 z"
+                   id="path4701"
+                   inkscape:connector-curvature="0"
+                   style="fill:#ffffff;stroke:#000000;stroke-width:3;stroke-dasharray:none" />
+                <text
+                   x="1675"
+                   y="3515"
+                   font-size="32pt"
+                   direction="ltr"
+                   id="text4707"
+                   style="font-size:42.66666794px;font-family:Arial;direction:ltr;text-anchor:middle;fill:#000000">
+                  <tspan
+                     x="1675"
+                     dy="50"
+                     unicode-bidi="embed"
+                     id="tspan4703">cotacaoNova[i] &lt;&gt;</tspan>
+                  <tspan
+                     x="1675"
+                     dy="50"
+                     unicode-bidi="embed"
+                     id="tspan4705">ultimaCotacao[i]</tspan>
+                </text>
+              </g>
+              <g
+                 id="g4733">
+                <polyline
+                   points="2100,3900 2100,3961"
+                   id="polyline4711"
+                   style="fill:none;stroke:#000000;stroke-width:6;stroke-dasharray:none" />
+                <polygon
+                   points="2086,3950 2100,3975 2113,3950 "
+                   id="polygon4713"
+                   style="fill:#000000;stroke:none" />
+                <g
+                   id="g4721">
+                  <path
+                     d="m 1950,3800 v 100 h 300 v -100 z"
+                     id="path4715"
+                     inkscape:connector-curvature="0"
+                     style="fill:#ffffff;stroke:#000000;stroke-width:3;stroke-dasharray:none" />
+                  <text
+                     x="2100"
+                     y="3815"
+                     font-size="32pt"
+                     direction="ltr"
+                     id="text4719"
+                     style="font-size:42.66666794px;font-family:Arial;direction:ltr;text-anchor:middle;fill:#000000">
+                    <tspan
+                       x="2100"
+                       dy="50"
+                       unicode-bidi="embed"
+                       id="tspan4717">flag = 1</tspan>
+                  </text>
+                </g>
+                <g
+                   id="g4731">
+                  <path
+                     d="m 1900,3975 v 150 h 400 v -150 z"
+                     id="path4723"
+                     inkscape:connector-curvature="0"
+                     style="fill:#ffffff;stroke:#000000;stroke-width:3;stroke-dasharray:none" />
+                  <text
+                     x="2100"
+                     y="3990"
+                     font-size="32pt"
+                     direction="ltr"
+                     id="text4729"
+                     style="font-size:42.66666794px;font-family:Arial;direction:ltr;text-anchor:middle;fill:#000000">
+                    <tspan
+                       x="2100"
+                       dy="50"
+                       unicode-bidi="embed"
+                       id="tspan4725">ultimaCotacao[i] =</tspan>
+                    <tspan
+                       x="2100"
+                       dy="50"
+                       unicode-bidi="embed"
+                       id="tspan4727">cotacaoNova[i]</tspan>
+                  </text>
+                </g>
+              </g>
+              <g
+                 id="g4735" />
+              <circle
+                 cx="1675"
+                 cy="4225"
+                 id="ellipse4737"
+                 r="25"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:3" />
+              <text
+                 x="2050"
+                 y="3490"
+                 font-size="32pt"
+                 direction="ltr"
+                 id="text4741"
+                 style="font-size:42.66666794px;font-family:Arial;direction:ltr;text-anchor:middle;fill:#000000">
+                <tspan
+                   x="2050"
+                   dy="50"
+                   unicode-bidi="embed"
+                   id="tspan4739">True</tspan>
+              </text>
+              <text
+                 x="1287"
+                 y="3490"
+                 font-size="32pt"
+                 direction="ltr"
+                 id="text4745"
+                 style="font-size:42.66666794px;font-family:Arial;direction:ltr;text-anchor:middle;fill:#000000">
+                <tspan
+                   x="1287"
+                   dy="50"
+                   unicode-bidi="embed"
+                   id="tspan4743">False</tspan>
+              </text>
+            </g>
+          </g>
+          <g
+             id="g4757">
+            <path
+               d="m 1075,2750 -175,100 175,100 175,-100 z"
+               id="path4751"
+               inkscape:connector-curvature="0"
+               style="fill:#ffffff;stroke:#000000;stroke-width:3;stroke-dasharray:none" />
+            <text
+               x="1075"
+               y="2815"
+               font-size="32pt"
+               direction="ltr"
+               id="text4755"
+               style="font-size:42.66666794px;font-family:Arial;direction:ltr;text-anchor:middle;fill:#000000">
+              <tspan
+                 x="1075"
+                 dy="50"
+                 unicode-bidi="embed"
+                 id="tspan4753">i = 0 to 7</tspan>
+            </text>
+          </g>
+          <text
+             x="1325"
+             y="2765"
+             font-size="32pt"
+             direction="ltr"
+             id="text4761"
+             style="font-size:42.66666794px;font-family:Arial;direction:ltr;text-anchor:middle;fill:#000000">
+            <tspan
+               x="1325"
+               dy="50"
+               unicode-bidi="embed"
+               id="tspan4759">Next</tspan>
+          </text>
+          <text
+             x="987"
+             y="2965"
+             font-size="32pt"
+             direction="ltr"
+             id="text4765"
+             style="font-size:42.66666794px;font-family:Arial;direction:ltr;text-anchor:middle;fill:#000000">
+            <tspan
+               x="987"
+               dy="50"
+               unicode-bidi="embed"
+               id="tspan4763">Done</tspan>
+          </text>
+        </g>
+        <g
+           id="g4829">
+          <polyline
+             points="1200,4475 1350,4475 1350,4611"
+             id="polyline4769"
+             style="fill:none;stroke:#000000;stroke-width:6;stroke-dasharray:none" />
+          <polygon
+             points="1336,4600 1350,4625 1363,4600 "
+             id="polygon4771"
+             style="fill:#000000;stroke:none" />
+          <polyline
+             points="1350,4950 1350,5050 1113,5050"
+             id="polyline4773"
+             style="fill:none;stroke:#000000;stroke-width:6;stroke-dasharray:none" />
+          <polygon
+             points="1124,5036 1100,5050 1124,5063 "
+             id="polygon4775"
+             style="fill:#000000;stroke:none" />
+          <polyline
+             points="950,4475 775,4475 775,5050 1036,5050"
+             id="polyline4777"
+             style="fill:none;stroke:#000000;stroke-width:6;stroke-dasharray:none" />
+          <polygon
+             points="1025,5063 1050,5050 1025,5036 "
+             id="polygon4779"
+             style="fill:#000000;stroke:none" />
+          <g
+             id="g4787">
+            <path
+               d="m 1075,4400 -150,75 150,75 150,-75 z"
+               id="path4781"
+               inkscape:connector-curvature="0"
+               style="fill:#ffffff;stroke:#000000;stroke-width:3;stroke-dasharray:none" />
+            <text
+               x="1075"
+               y="4440"
+               font-size="32pt"
+               direction="ltr"
+               id="text4785"
+               style="font-size:42.66666794px;font-family:Arial;direction:ltr;text-anchor:middle;fill:#000000">
+              <tspan
+                 x="1075"
+                 dy="50"
+                 unicode-bidi="embed"
+                 id="tspan4783">flag = 1</tspan>
+            </text>
+          </g>
+          <g
+             id="g4815">
+            <polyline
+               points="1350,4775 1350,4836"
+               id="polyline4789"
+               style="fill:none;stroke:#000000;stroke-width:6;stroke-dasharray:none" />
+            <polygon
+               points="1363,4825 1336,4825 1350,4850 "
+               id="polygon4791"
+               style="fill:#000000;stroke:none" />
+            <g
+               id="g4805">
+              <path
+                 d="m 1125,4625 v 150 h 450 v -150 z"
+                 id="path4793"
+                 inkscape:connector-curvature="0"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:3;stroke-dasharray:none" />
+              <polyline
+                 points="1150,4625 1150,4775"
+                 id="polyline4795"
+                 style="fill:none;stroke:#000000;stroke-width:3;stroke-dasharray:none" />
+              <polyline
+                 points="1550,4625 1550,4775"
+                 id="polyline4797"
+                 style="fill:none;stroke:#000000;stroke-width:3;stroke-dasharray:none" />
+              <text
+                 x="1350"
+                 y="4640"
+                 font-size="32pt"
+                 direction="ltr"
+                 id="text4803"
+                 style="font-size:42.66666794px;font-family:Arial;direction:ltr;text-anchor:middle;fill:#000000">
+                <tspan
+                   x="1350"
+                   dy="50"
+                   unicode-bidi="embed"
+                   id="tspan4799">AtualizaForm</tspan>
+                <tspan
+                   x="1350"
+                   dy="50"
+                   unicode-bidi="embed"
+                   id="tspan4801">(ultimaCotacao)</tspan>
+              </text>
+            </g>
+            <g
+               id="g4813">
+              <path
+                 d="m 1200,4850 v 100 h 300 v -100 z"
+                 id="path4807"
+                 inkscape:connector-curvature="0"
+                 style="fill:#ffffff;stroke:#000000;stroke-width:3;stroke-dasharray:none" />
+              <text
+                 x="1350"
+                 y="4865"
+                 font-size="32pt"
+                 direction="ltr"
+                 id="text4811"
+                 style="font-size:42.66666794px;font-family:Arial;direction:ltr;text-anchor:middle;fill:#000000">
+                <tspan
+                   x="1350"
+                   dy="50"
+                   unicode-bidi="embed"
+                   id="tspan4809">flag = 0</tspan>
+              </text>
+            </g>
+          </g>
+          <g
+             id="g4817" />
+          <circle
+             cx="1075"
+             cy="5050"
+             id="ellipse4819"
+             r="25"
+             style="fill:#ffffff;stroke:#000000;stroke-width:3" />
+          <text
+             x="1300"
+             y="4390"
+             font-size="32pt"
+             direction="ltr"
+             id="text4823"
+             style="font-size:42.66666794px;font-family:Arial;direction:ltr;text-anchor:middle;fill:#000000">
+            <tspan
+               x="1300"
+               dy="50"
+               unicode-bidi="embed"
+               id="tspan4821">True</tspan>
+          </text>
+          <text
+             x="837"
+             y="4390"
+             font-size="32pt"
+             direction="ltr"
+             id="text4827"
+             style="font-size:42.66666794px;font-family:Arial;direction:ltr;text-anchor:middle;fill:#000000">
+            <tspan
+               x="837"
+               dy="50"
+               unicode-bidi="embed"
+               id="tspan4825">False</tspan>
+          </text>
+        </g>
+      </g>
+      <g
+         id="g4833" />
+      <circle
+         cx="600"
+         cy="5175"
+         id="ellipse4835"
+         r="25"
+         style="fill:#ffffff;stroke:#000000;stroke-width:3" />
+      <text
+         x="1025"
+         y="2065"
+         font-size="32pt"
+         direction="ltr"
+         id="text4839"
+         style="font-size:42.66666794px;font-family:Arial;direction:ltr;text-anchor:middle;fill:#000000">
+        <tspan
+           x="1025"
+           dy="50"
+           unicode-bidi="embed"
+           id="tspan4837">True</tspan>
+      </text>
+      <text
+         x="162"
+         y="2065"
+         font-size="32pt"
+         direction="ltr"
+         id="text4843"
+         style="font-size:42.66666794px;font-family:Arial;direction:ltr;text-anchor:middle;fill:#000000">
+        <tspan
+           x="162"
+           dy="50"
+           unicode-bidi="embed"
+           id="tspan4841">False</tspan>
+      </text>
+    </g>
+    <g
+       id="g4853"
+       transform="matrix(0.05571348,0,0,0.05571348,-0.361754,-19.712356)">
+      <path
+         d="m 450,5275 v 100 h 250 l 50,-50 -50,-50 z"
+         id="path4847"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;stroke:#000000;stroke-width:3;stroke-dasharray:none" />
+      <text
+         x="575"
+         y="5290"
+         font-size="32pt"
+         direction="ltr"
+         id="text4851"
+         style="font-size:42.66666794px;font-family:Arial;direction:ltr;text-anchor:middle;fill:#000000">
+        <tspan
+           x="575"
+           dy="50"
+           unicode-bidi="embed"
+           id="tspan4849">&quot;End&quot;</tspan>
+      </text>
+    </g>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 91.647525,267.85242 v 2.14532"
+       id="path5899"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.41916242px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 91.647525,269.99774 H 33.066334"
+       id="path5901"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 38.901571,56.496756 V 66.794231"
+       id="path5905"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 69.336329,66.794231 V 22.858338 h 22.654446"
+       id="path5907"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 91.730958,27.674673 V 22.629505"
+       id="path5909"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 38.901571,66.794231 H 69.336329"
+       id="path5911"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
