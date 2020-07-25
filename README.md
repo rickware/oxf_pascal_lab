@@ -5,9 +5,10 @@ Simple app made to get data from web and ofx files.
 
 <hr />
 
+##algorithms
 [algorithms] (/algorithms.md)
 
 <hr />
 
 ## memorial
-[mem](/memorial.md)
+[memorial](/memorial.md)
