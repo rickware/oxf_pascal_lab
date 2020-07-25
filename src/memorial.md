@@ -1,9 +1,9 @@
 ## SYSTEM DATA
 
-Characteristics of the development environment.
-IDE RADStudio [Delphi] 10.3 
-SQL Server  14.0.1000 EXPRESS 
-Microsoft Windows 10  Home
+Characteristics of the development environment.<br/>
+IDE RADStudio [Delphi] 10.3 <br/>
+SQL Server  14.0.1000 EXPRESS <br/>
+Microsoft Windows 10  Home<br/>
 
 <hr />
 This app uses external component from [leogregianin] (https://github.com/leogregianin/ofx-reader)
