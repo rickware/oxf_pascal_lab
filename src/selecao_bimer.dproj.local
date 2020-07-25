@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/08/16 08:58:03.000.921,=C:\Users\ricar\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/08/16 09:24:00.000.974,C:\Users\ricar\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\ricar\Documents\Embarcadero\Studio\Projects\view.pas</Transaction>
+    <Transaction>2019/08/16 09:24:00.000.974,C:\Users\ricar\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\ricar\Documents\Embarcadero\Studio\Projects\view.dfm</Transaction>
+    <Transaction>2019/08/16 09:24:36.000.435,C:\Users\ricar\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\ricar\Documents\Embarcadero\Studio\Projects\selecao_bimer.dproj</Transaction>
+    <Transaction>2019/08/16 10:00:25.000.178,C:\Users\ricar\Documents\Embarcadero\Studio\Projects\selecao_bimer.dproj=C:\Users\ricar\Documents\Embarcadero\Studio\Projects\selecao_bimer\selecao_bimer.dproj</Transaction>
+    <Transaction>2019/08/16 10:01:23.000.223,C:\Users\ricar\Documents\Embarcadero\Studio\Projects\view.dfm=C:\Users\ricar\Documents\Embarcadero\Studio\Projects\selecao_bimer\view.dfm</Transaction>
+    <Transaction>2019/08/16 10:01:23.000.223,C:\Users\ricar\Documents\Embarcadero\Studio\Projects\view.pas=C:\Users\ricar\Documents\Embarcadero\Studio\Projects\selecao_bimer\view.pas</Transaction>
+    <Transaction>2019/08/16 10:01:49.000.863,=C:\Users\ricar\Documents\Embarcadero\Studio\Projects\selecao_bimer\Unit1.pas</Transaction>
+    <Transaction>2019/08/16 10:02:04.000.784,C:\Users\ricar\Documents\Embarcadero\Studio\Projects\selecao_bimer\Unit1.pas=C:\Users\ricar\Documents\Embarcadero\Studio\Projects\selecao_bimer\control.pas</Transaction>
+    <Transaction>2019/08/16 18:04:58.000.706,=C:\Users\ricar\Documents\Embarcadero\Studio\Projects\selecao_bimer\Unit2.pas</Transaction>
+    <Transaction>2019/08/16 18:05:16.000.112,C:\Users\ricar\Documents\Embarcadero\Studio\Projects\selecao_bimer\model.dfm=C:\Users\ricar\Documents\Embarcadero\Studio\Projects\selecao_bimer\Unit2.dfm</Transaction>
+    <Transaction>2019/08/16 18:05:16.000.112,C:\Users\ricar\Documents\Embarcadero\Studio\Projects\selecao_bimer\model.pas=C:\Users\ricar\Documents\Embarcadero\Studio\Projects\selecao_bimer\Unit2.pas</Transaction>
+    <Transaction>2019/08/17 16:12:19.000.021,=C:\Users\ricar\Documents\Embarcadero\Studio\Projects\selecao_bimer_ricardo\src\ModelSupport_selecao_bimer\default.txaPackage</Transaction>
+    <Transaction>2019/08/17 19:07:28.000.837,C:\Users\ricar\Documents\Embarcadero\Studio\Projects\selecao_bimer_ricardo\src\control.pas=</Transaction>
+    <Transaction>2019/08/18 22:30:32.000.121,=C:\Users\ricar\Documents\Embarcadero\Studio\Projects\selecao_bimer_ricardo\src\ofxreader.pas</Transaction>
+    <Transaction>2019/08/18 23:14:35.000.407,=C:\Users\ricar\Documents\Embarcadero\Studio\Projects\selecao_bimer_ricardo\src\ModelSupport_selecao_bimer\default.txvpck</Transaction>
+    <Transaction>2019/08/18 23:14:39.000.407,=C:\Users\ricar\Documents\Embarcadero\Studio\Projects\selecao_bimer_ricardo\src\ModelSupport_selecao_bimer\selecao_bimer\default.txvpck</Transaction>
+    <Transaction>2019/08/18 23:14:39.000.329,=C:\Users\ricar\Documents\Embarcadero\Studio\Projects\selecao_bimer_ricardo\src\ModelSupport_selecao_bimer\model\default.txvpck</Transaction>
+    <Transaction>2019/08/19 08:22:35.000.611,=C:\Users\ricar\Documents\Embarcadero\Studio\Projects\selecao_bimer_ricardo\src\selecao_bimer.todo</Transaction>
+  </Transactions>
+</BorlandProject>
